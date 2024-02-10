@@ -1,0 +1,12 @@
+/* Your existing styles */
+
+.transparent-image-container {
+    position: relative;
+}
+
+.transparent-image-container img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.7; /* Adjust the opacity value as needed (0.0 to 1.0) */
+}
